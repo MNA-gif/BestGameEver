@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15a85f1031f6d0f48b00fdb065ba4587
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Windows/MI_WO2424_Step.mat
+  uploadId: 514391

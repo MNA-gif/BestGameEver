@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cb9342a07f67c143bb5cb38ebb9303c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/LED.mat
+  uploadId: 514391

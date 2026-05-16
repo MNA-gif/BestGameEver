@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e33b01b7543ec1e40843b4ecd0564f09
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Prefabs/Corridor.prefab
+  uploadId: 514391

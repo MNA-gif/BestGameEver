@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b30a71d99a215e45828a22fa3871e44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Windows/MI_CircleWin_Glass.mat
+  uploadId: 514391

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbc09c47238ca814b872bb082b299345
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Wood_Dark_2.mat
+  uploadId: 514391

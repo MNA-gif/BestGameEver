@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0497e005a257f4498e044f7cc07b6b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Wall_In.mat
+  uploadId: 514391

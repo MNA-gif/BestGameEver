@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9bddc9a1df920c4d8f6f96c53c026bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Windows/MI_WD2219_Frame.mat
+  uploadId: 514391

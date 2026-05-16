@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 593b81a6e3c9c984fb1ca33bfb151a70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Wood_Light_2.mat
+  uploadId: 514391

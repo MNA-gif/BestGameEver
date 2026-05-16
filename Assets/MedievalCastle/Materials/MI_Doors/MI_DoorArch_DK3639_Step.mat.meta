@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 044840f677f8e4c4da584251e2b0ab13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Doors/MI_DoorArch_DK3639_Step.mat
+  uploadId: 514391

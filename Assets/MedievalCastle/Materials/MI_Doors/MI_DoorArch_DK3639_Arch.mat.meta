@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdec5a7a8830b62459c8b8163526b95b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Doors/MI_DoorArch_DK3639_Arch.mat
+  uploadId: 514391

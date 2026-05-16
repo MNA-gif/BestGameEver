@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cf758598da083e49988630a0fe3856b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Wood_Plank_2.mat
+  uploadId: 514391

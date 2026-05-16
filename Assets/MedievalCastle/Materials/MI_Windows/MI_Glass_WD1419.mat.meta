@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d21c824f70c8044e995ada4f631fd16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Windows/MI_Glass_WD1419.mat
+  uploadId: 514391

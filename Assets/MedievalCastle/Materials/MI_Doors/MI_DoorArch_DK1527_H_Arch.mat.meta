@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0140d9b8dabc4b42ab2f39d086610d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Doors/MI_DoorArch_DK1527_H_Arch.mat
+  uploadId: 514391

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7631b2c66dc2bb84583ee4171105526d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228116
+  packageName: Medieval Castle
+  packageVersion: 1.0
+  assetPath: Assets/MedievalCastle/Materials/MI_Marble.mat
+  uploadId: 514391
